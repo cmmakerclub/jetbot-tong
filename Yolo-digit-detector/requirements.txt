@@ -1,0 +1,10 @@
+tensorflow==1.14.0
+keras==2.3
+imgaug==0.2.6
+Pillow
+requests
+tqdm
+sklearn
+pytest-cov
+codecov
+matplotlib
